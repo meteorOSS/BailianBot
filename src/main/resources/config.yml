@@ -1,0 +1,9 @@
+setting:
+  accessKeyId: ''
+  accessKeySecret: ''
+  agentKey: ''
+  appId: ''
+message:
+  prefix: '&bBot:'
+  # 包含该字符串触发问答
+  sign: '@ai'

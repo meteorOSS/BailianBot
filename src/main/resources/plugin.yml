@@ -1,0 +1,5 @@
+name: BailianBot
+version: '${project.version}'
+main: com.meteor.bailianbot.BailianBot
+commands:
+  bailian:
